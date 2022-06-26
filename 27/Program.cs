@@ -6,4 +6,4 @@ while (A > 0)
     sum = sum + A % 10;
     A = A / 10;
 }
-Console.WriteLine($"Сумма цифр числа {A} = {sum}");
+Console.WriteLine($"Сумма цифр числа A = {sum}");
