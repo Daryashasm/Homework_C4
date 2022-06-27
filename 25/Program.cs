@@ -15,5 +15,5 @@ Console.WriteLine($"Число {A}^{B} = {AstepB}");
 }
 else
 {
-   Console.WriteLine($"Число {A}^{B} = 1"); 
+Console.WriteLine($"Число {A}^{B} = 1"); 
 }
